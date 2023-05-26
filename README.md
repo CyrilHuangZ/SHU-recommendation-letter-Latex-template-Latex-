@@ -5,4 +5,4 @@
 请使用LuaLatex进行编译，可以使用overleaf等工具
 效果如下所示：
 
-[Image text]!(illustration.png)
+[Image]!(https://github.com/CyrilHuangZ/SHU-recommendation-letter-Latex-template-Latex-/illustration.png)
