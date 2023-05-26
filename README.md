@@ -1,5 +1,9 @@
 # SHU-recommendation-letter-Latex-template-Latex-
 上海大学推荐信Latex模板
 
+使用主流的推荐信模板修改成上海大学对应的格式，请自行调整内部的信息
 请使用LuaLatex进行编译，可以使用overleaf等工具
-![shotscreen](G:\黄晨宇的保研项目\推荐信\SHU recommendation letter template\illustration\illustration.png)
+效果如下所示：
+
+[Image text]!
+(https://github.com/CyrilHuangZ/SHU-recommendation-letter-Latex-template-Latex-/illustration.png)
